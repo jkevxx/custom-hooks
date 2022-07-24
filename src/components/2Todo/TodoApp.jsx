@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import useTodos from "../../hooks/useTodos";
 
 const initialTodo = [
